@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925578101281",
+    "project_id": "tugazzb"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925578101281:android:7920d74d3a9cc7a9",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.tugazzb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925578101281-e41ullsjlpjti934f6atr4jl8ljonilj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "925578101281-5m517nh3pgl32kpsp3tkirtbqjopaahm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.tugazzb",
+            "certificate_hash": "f5a022a55cc29a4e4317e7a3427d742ac7263a0f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTSWaKmgHDSg6-EIomMm2ftm4Q6VhlUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
